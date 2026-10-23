@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "DevWorkspaceApp"
+rootProject.name = "DevPulse"
 include(":app")
